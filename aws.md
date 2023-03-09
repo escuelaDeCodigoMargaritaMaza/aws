@@ -66,10 +66,37 @@ elementos para considerar que region
 administracin de AWS
 ![image](https://user-images.githubusercontent.com/91554777/223900144-a727112d-30e8-4a2e-895a-c5583818b1c4.png)
 
-REDES
+## REDES
 
 ![image](https://user-images.githubusercontent.com/91554777/223900652-43d5b54d-fd61-4d2c-85b4-e955fe8b4b51.png)
 ![image](https://user-images.githubusercontent.com/91554777/223901193-ff5db124-a75d-4fd6-bd17-54d5e4ad2d4e.png)
+
+
+## ALMACENAMIENTO
+![image](https://user-images.githubusercontent.com/91554777/224059757-3ab4548e-7d50-42f2-96f6-e837f8abc7ff.png)
+![image](https://user-images.githubusercontent.com/91554777/224062237-4ce78c0c-9ed7-42ba-9eb4-6ef883e24fe9.png)
+![image](https://user-images.githubusercontent.com/91554777/224062664-9eb1779b-2d2f-40cd-b3e7-1af5482460db.png)
+![image](https://user-images.githubusercontent.com/91554777/224069502-6a424efc-9e9f-4a46-9beb-69a692e41ecd.png)
+
+## BD
+![image](https://user-images.githubusercontent.com/91554777/224070888-0ed98a0c-1b07-4a73-86fe-68fbc7f49988.png)
+![image](https://user-images.githubusercontent.com/91554777/224071678-d1348038-f2fb-4cc2-b375-1de6dc9916f2.png)
+![image](https://user-images.githubusercontent.com/91554777/224071879-7ae4946b-3fd3-4f50-b589-4d81f0df3537.png)
+
+## SEGURIDAD
+![image](https://user-images.githubusercontent.com/91554777/224074592-6ee0a7ab-033b-43d7-a3f5-804caeb035a7.png)
+![image](https://user-images.githubusercontent.com/91554777/224075879-8478dc4a-b26e-4071-8e42-54f396461b13.png)
+![image](https://user-images.githubusercontent.com/91554777/224076006-a6aa61f5-4dad-41d2-b72d-44e2db3e8466.png)
+![image](https://user-images.githubusercontent.com/91554777/224076085-3a7d6963-a177-4b92-b619-c29ecc109fd2.png)
+![image](https://user-images.githubusercontent.com/91554777/224076799-b12b0667-1eae-4dbc-8c5b-bf269638f054.png)
+
+
+
+
+
+
+
+
 
 
 
