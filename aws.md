@@ -91,6 +91,7 @@ administracin de AWS
 ![image](https://user-images.githubusercontent.com/91554777/224076799-b12b0667-1eae-4dbc-8c5b-bf269638f054.png)
 
 
+![image](https://user-images.githubusercontent.com/91554777/224174449-77de9aa5-1b33-4a34-bac1-4a0a43a4c577.png)
 
 
 
